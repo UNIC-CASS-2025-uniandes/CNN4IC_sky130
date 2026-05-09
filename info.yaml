@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "CNN4IC — Convolutional Neural Network (CNN) for Image Classification on Chip (IEEE)"
-  author:       "Jacobo Morales, Hernando Diaz, Martín Calderón, Daniel Pedraza, Mateo Fernandez"      # Your name
+  author:       "Jacobo Morales, Hernando Diaz, Martín Calderón, Daniel Pedraza, Mateo Fernandez. Mentors: Juan S Moya, Fredy Segura, Alba Avila"      # Your name
   discord:      "jacome10, "      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "CNN accelerator that classifies 10x10 images using two 5x5 kernels via SPI interface"
   language:     "Verilog"
