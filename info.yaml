@@ -1,8 +1,8 @@
 # Tiny Tapeout project information
 project:
-  title:        "CNN4IC — Convolutional Neural Network Classifier on Chip"
-  author:       "jose"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  title:        "CNN4IC — Convolutional Neural Network (CNN) for Image Classification on Chip"
+  author:       "Jacobo Morales, Hernando Diaz, Martín Calderón, Daniel Pedraza, Mateo Fernandez"      # Your name
+  discord:      "jacome10, "      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "CNN accelerator that classifies 10x10 images using two 5x5 kernels via SPI interface"
   language:     "Verilog"
   clock_hz:     50000000  # 50 MHz (20 ns period as set in config.json)
